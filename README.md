@@ -8,4 +8,9 @@
 例如:
 ```
 https://raw.githubusercontent.com/angcyo/app/master/DingDing-3.2.2_2018-11-28_apk_release_angcyo.apk
+https://raw.githubusercontent.com/angcyo/app/master/神首集团.apk
 ```
+
+[](https://raw.githubusercontent.com/angcyo/app/master/DingDing-3.2.2_2018-11-28_apk_release_angcyo.apk)
+
+[](https://raw.githubusercontent.com/angcyo/app/master/神首集团.apk)
